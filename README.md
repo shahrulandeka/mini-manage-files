@@ -43,7 +43,7 @@ Launch the utility: <br/>
 <br />
 <br />
 6. Edit a file using the nano text editor:  <br/>
-<img src="https://i.imgur.com/ZuEeDyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5fNBo9P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 7. Use the "cat" command to check the contents of an edited file:  <br/>
